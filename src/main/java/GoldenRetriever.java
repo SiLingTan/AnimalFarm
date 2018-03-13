@@ -10,6 +10,4 @@ public class GoldenRetriever extends Dog {
     public String playsGames(){
         return String.format("%s enjoys playing %s", super.getName(), games);
     }
-
-
 }
